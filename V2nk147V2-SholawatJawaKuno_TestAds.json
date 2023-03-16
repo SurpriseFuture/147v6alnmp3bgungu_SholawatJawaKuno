@@ -1,0 +1,378 @@
+﻿
+
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"2",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Data": 
+[
+    {
+        "id": "1",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Baguse Niat",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/1.%20Baguse%20Niat.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "2",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Urip Neng Alam Ndunyo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/2.%20Urip%20Neng%20Alam%20Ndunyo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "3",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Ayo Sedulur",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/3.%20Ayo%20Sedulur.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "4",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Getun Temen",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/4.%20Getun%20Temen.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "5",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Sak Uwise Ono Adzan",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/5.%20Sak%20Uwise%20Ono%20Adzan.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "6",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Pejah Husnul Khotimah",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/6.%20Pejah%20Husnul%20Khotimah.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "7",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Mampir Ngombe",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/7.%20Mampir%20Ngombe.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "8",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Gampang Suargane",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/8.%20Gampang%20Suargane.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "9",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Ilmu Lan Bondo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/9.%20Ilmu%20Lan%20Bondo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "10",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Tombo Ati",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/10.%20Tombo%20Ati.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "11",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Saben Malam Jum'At",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/11.%20Saben%20Malam%20Jum%27At.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "12",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Ojo Gampang Nesu",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/12.%20Ojo%20Gampang%20Nesu.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "13",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Ajarane Walisongo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/13.%20Ajarane%20Walisongo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "14",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Makmurake Masjid",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/14.%20Makmurake%20Masjid.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "15",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Sopo Ngrekso Sholate",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/15.%20Sopo%20Ngrekso%20Sholate.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "16",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Bekti Wong Tuwo",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/16.%20Bekti%20Wong%20Tuwo.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "17",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Mongo Sami Tobat",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/17.%20Mongo%20Sami%20Tobat.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "18",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Ganjarane Moco Qur'An",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/18.%20Ganjarane%20Moco%20Qur%27An.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "19",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Fadilahe Moco Sholawat",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/19.%20Fadilahe%20Moco%20Sholawat.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "20",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Telu Perkoro",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/20.%20Telu%20Perkoro.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "21",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Mugi Kasembadan",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/21.%20Mugi%20Kasembadan.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "22",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Mugi Muwuhi Rohmat",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/22.%20Mugi%20Muwuhi%20Rohmat.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "23",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Ojo Dumeh",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/23.%20Ojo%20Dumeh.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "24",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Piturur Luhur",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/24.%20Piturur%20Luhur.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "25",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Syair Kematian",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/25.%20Syair%20Kematian.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "26",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Rahasia Pati",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/26.%20Rahasia%20Pati.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "27",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Berkah Shodaqoh",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/27.%20Berkah%20Shodaqoh.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "28",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Sejatine Mati",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/28.%20Sejatine%20Mati.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "29",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Urip Namung Sak Wetoro",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/29.%20Urip%20Namung%20Sak%20Wetoro.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "30",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Silaturrahim",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/30.%20Silaturrahim.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "31",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Sabar Lan Qona'Ah",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/31.%20Sabar%20Lan%20Qona%27Ah.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "32",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Enem Pitakonan Kubur",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/32.%20Enem%20Pitakonan%20Kubur.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "33",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Ditekani Malaikat",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/33.%20Ditekani%20Malaikat.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "34",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Akhir Zaman",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/34.%20Akhir%20Zaman.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "35",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Mulyane Dino Jum'At",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/35.%20Mulyane%20Dino%20Jum%27At.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "36",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Ngrekso Lisan",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/36.%20Ngrekso%20Lisan.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "37",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Pitakon Kubur",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/37.%20Pitakon%20Kubur.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "38",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Ngaji Wiwit Cilik",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/38.%20Ngaji%20Wiwit%20Cilik.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "39",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Lungo Haji",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/39.%20Lungo%20Haji.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "40",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Sandangane Diganti Putih",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/40.%20Sandangane%20Diganti%20Putih.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "41",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Eling Eling Siro Manungso",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/41.%20Eling%20Eling%20Siro%20Manungso.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "42",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Sandangane Diganti Putih",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/42.%20Sandangane%20Diganti%20Putih.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "43",
+        "name_category": "Puji-Pujian Jawa Lawas Syahdu",
+        "title": "Esih Cilek Diwulang Ngaji",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/3.-ayo-sedulur/43.%20Esih%20Cilek%20Diwulang%20Ngaji.ogg"
+    }
+]
+}
